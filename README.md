@@ -14,7 +14,7 @@
 ## Ingredients 
 - Steak, duh
 - Kosher salt
-- Avacado oil
+- Avocado oil
 
 ## Cooking
 
@@ -36,7 +36,7 @@ After the steak has been in the oven for TODO min, start the grill and get it as
 
 ### Cooking
 
-Rub the steak in avacado oil and place in 200 degree oven until probe thermometer reads 115 degrees.
+Rub the steak in avocado oil and place in 200 degree oven until probe thermometer reads 115 degrees.
 
 Remove from the oven and transfer to the grill.
 
