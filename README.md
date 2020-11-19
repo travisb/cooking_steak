@@ -47,7 +47,7 @@ Grill each side for 1 minute. Set a timer
 
 ### Post Cooking
 
-Once the steak has been seared on both sides (2 min total) it needs to reset [[1]](#1) remove from the grill and wrap in foil
+Once the steak has been seared on both sides (2 min total) it needs to rest [[1]](#1) remove from the grill and wrap in foil
 
 After 10 min of resting the internal temperature of the steak should be 137.5 
 If it's lower than 130, throw it back on the grill for an additional minute on each side 
