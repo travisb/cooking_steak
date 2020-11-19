@@ -1,4 +1,4 @@
-# Notes On Cooking Steak (Reverse Sear -> Grill)
+# Notes On Cooking Steak (Reverse Sear: Oven -> Grill)
 ![Exagurated Picture Of Ribeye](https://github.com/travisb/cooking_steak/blob/main/img/ribeye.jpeg)
 ## Equipment/Ingredients
 
@@ -26,7 +26,9 @@ to create a nice "crust"
 2 hours before you plan on putting the steak in the oven take the steak out of the fridge
 and smother both sides with kosher salt.  Can you see red/pink? you don't have enough, add more.
 Place on a rack over an oven pan (it's going to drip a lot of liquid). Place a probe thermometer
-as close to center wrt height, and centered wrt outer edges.  
+as close to center wrt height, and centered wrt outer edges.
+
+Flip after 1 hour
 
 30 min before cooking heat the oven to 200 degrees
 
@@ -45,13 +47,13 @@ Grill each side for 1 minute. Set a timer
 
 ### Post Cooking
 
-Once the steak has been seared on both sides (2 min total) remove from the grill and wrap in foil
+Once the steak has been seared on both sides (2 min total) it needs to reset [[1]](#1) remove from the grill and wrap in foil
 
 After 10 min of resting the internal temperature of the steak should be 137.5 
 If it's lower than 130, throw it back on the grill for an additional minute on each side 
 for each 5 degrees below 137.5 and allow it to rest for another 5-10 minutes.
 
-Cut the meat against the the grain (the short way not the long way across the steak) into 
+Cut the meat Gagainst the the grain (the short way not the long way across the steak) into 
 finger width portions
 
 ## Notes
@@ -60,4 +62,5 @@ finger width portions
 - Add any pepper after resting
 
 ## References
-TODO
+
+<a id="1"> Cooks Illustrated: Carryover cooking </a> [https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking](https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking)
