@@ -63,4 +63,4 @@ finger width portions
 
 ## References
 
-<a id="1"> Cooks Illustrated: Carryover cooking </a> [https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking](https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking)
+[1] <a id="1"> Cooks Illustrated: Carryover cooking </a> [https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking](https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking)
