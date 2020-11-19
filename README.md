@@ -1,5 +1,5 @@
 # Notes On Cooking Steak (Reverse Sear -> Grill)
-
+![Exagurated Picture Of Ribeye](https://travisb.github.com/img/rib_eye.jpeg)
 ## Equipment/Ingredients
 
 ### Equipment
