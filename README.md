@@ -63,4 +63,5 @@ finger width portions
 
 ## References
 [1] <a id="1"> Serious Eats: Maillard Reaction </a> [https://www.seriouseats.com/2017/04/what-is-maillard-reaction-cooking-science.html](https://www.seriouseats.com/2017/04/what-is-maillard-reaction-cooking-science.html)
+
 [2] <a id="2"> Cooks Illustrated: Carryover cooking </a> [https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking](https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking)
