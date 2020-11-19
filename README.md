@@ -32,15 +32,15 @@ Flip after 1 hour
 
 30 min before cooking heat the oven to 200 degrees
 
-After the steak has been in the oven for TODO min, start the grill and get it as hot as possible (lid dowwn) 
-
 10 min before cooking wipe off all the salt off the steak
 
 ### Cooking
 
-Rub the steak in avocado oil and place in 200 degree oven until probe thermometer reads 115 degrees.
+Rub the steak in avocado oil and place in 200 degree oven 
 
-Remove from the oven and transfer to the grill.
+Once the steak reaches an internal temperature of 100 degrees start the grill and get it as hot as possible (lid dowwn) 
+
+Once the steak reaches an internal temperature of 115 degrees, Remove from the oven and transfer to the grill.
 
 Grill each side for 1 minute. Set a timer
 
