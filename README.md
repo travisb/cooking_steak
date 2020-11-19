@@ -20,7 +20,7 @@
 
 We're going to be reverse searing.  That means cooking the steak at low heat in an oven
 and then transfering to a pan or grill to blast the outside of the steak with high heat 
-to create a nice "crust"
+to create a nice "crust" (see [[1]](#1) for more information on why).
 
 ### Prior to Cooking
 2 hours before you plan on putting the steak in the oven take the steak out of the fridge
@@ -47,7 +47,7 @@ Grill each side for 1 minute. Set a timer
 
 ### Post Cooking
 
-Once the steak has been seared on both sides (2 min total) it needs to rest [[1]](#1) remove from the grill and wrap in foil
+Once the steak has been seared on both sides (2 min total) it needs to rest [[2]](#2) remove from the grill and wrap in foil
 
 After 10 min of resting the internal temperature of the steak should be 137.5 
 If it's lower than 130, throw it back on the grill for an additional minute on each side 
@@ -62,5 +62,5 @@ finger width portions
 - Add any pepper after resting
 
 ## References
-
-[1] <a id="1"> Cooks Illustrated: Carryover cooking </a> [https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking](https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking)
+[1] <a id="1"> Serious Eats: Maillard Reaction </a> [https://www.seriouseats.com/2017/04/what-is-maillard-reaction-cooking-science.html](https://www.seriouseats.com/2017/04/what-is-maillard-reaction-cooking-science.html)
+[2] <a id="2"> Cooks Illustrated: Carryover cooking </a> [https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking](https://www.cooksillustrated.com/how_tos/6369-all-about-carryover-cooking)
